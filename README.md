@@ -1,5 +1,6 @@
 # revelation-Effectz1
 (Status-Under development)
+
 A website for checking out inspirational quotes 
 
 (i'd like to thank Mary Lou . For her project inspired me to make my inspirational/quotes blog and make her work look more alive :) )
