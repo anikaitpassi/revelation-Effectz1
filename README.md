@@ -1,5 +1,5 @@
 # revelation-Effectz1
-A website for checking out inspirational quotes developed and animated using  Scalable Vector Graphics
+A website for checking out inspirational quotes developed and animated using  transformations , Pseudo element
 
 (i'd like to thank Mary Lou . For her project inspired me to make my own version)
 Copyright 2018 Anikait_Passi
