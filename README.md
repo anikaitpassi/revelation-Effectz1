@@ -1,5 +1,5 @@
 # revelation-Effectz1
-(Status-Under development)
+(Status-Under development set1/2)
 
 A website for checking out inspirational quotes 
 
